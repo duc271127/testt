@@ -13,7 +13,7 @@
                 <repository>
                     <id>github</id>
                     <name>GitHub duc271127 Maven Packages</name>
-                    <url>https://maven.pkg.github.com/duc271127/testtt</url>
+                    <url>https://maven.pkg.github.com/duc271127/testt</url>
                 </repository>
             </repositories>
         </profile>
