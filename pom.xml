@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>github.tobsef</groupId>
-    <artifactId>hello-maven</artifactId>
+    <groupId>duc2711</groupId>
+    <artifactId>testt</artifactId>
     <version>1.2.3</version>
 
     <build>
@@ -35,8 +35,8 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>GitHub TobseF Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/TobseF/HelloMaven</url>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/duc271127/testtt</url>
         </repository>
     </distributionManagement>
 
